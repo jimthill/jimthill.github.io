@@ -1,0 +1,149 @@
+{
+  "name": "James Thill",
+  "label": "Data Science and Category Management",
+  "image_path": "portfolio_media/jim03142025_256.jpg",
+  "contact": {
+    "email": "thill.jim@gmail.com",
+    "phone": "612-747-7775",
+    "location": "Minneapolis, MN"
+  },
+  "summary": "Data Science Nerd and Category Manager",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jimthill/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/jimthill/public_shares",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Cub Foods",
+      "position": "Category Manager",
+      "url": "https://www.cub.com/",
+      "start_date": "07/2024",
+      "end_date": "11/2024",
+      "summary": "Managed all Frozen Food categories for the 80-store Cub grocery chain.",
+      "highlights": [
+        "Sales Analytics and Forecasting",
+        "Ad, Promotion, and Event Planning.",
+        "Skills used: Excel, Power BI, Tableau, Python, R, Nielsen, Vendor Negotiations."
+      ]
+    },
+    {
+      "company": "UNFI",
+      "position": "Category Manager",
+      "url": "https://www.unfi.com/",
+      "start_date": "11/2021",
+      "end_date": "07/2024",
+      "summary": "Managed numerous product categories at a large grocery distributor.",
+      "highlights": [
+        "Project Lead for Perenso Show Data maintenance and integrity.",
+        "Subject Matter Expert for Numerator and Promotion Effectiveness Forecast Tool.",
+        "Skills used: Excel, Power BI, Tableau, Python, R, Nielsen, Vendor Negotiations."
+      ]
+    },
+    {
+      "company": "Valley Natural Foods",
+      "position": "Center Store Manager",
+      "url": "https://www.valleynaturalfoods.com/",
+      "start_date": "01/2020",
+      "end_date": "11/2021",
+      "summary": "Operations and Category Management of all center store departments.",
+      "highlights": [
+        "Implemented several resets adapting the NCG Core Sets guidance.",
+        "Launched WIC program.",
+        "Supervised up to 20 direct reports including buyers, stockers, and scan data management team."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Exploring NYC 311 Call Data",
+      "summary": "All 3.4M records from 2024",
+      "url": "https://github.com/jimthill/public_shares/blob/main/NYC_311_Complaints_2024.ipynb",
+      "highlights": ["Skills used: Python, Pandas, Matplotlib, and Tableau", "Tableau Screenshots Shown"],
+      "images": [
+        {
+          "img_path": "portfolio_media/dash_call_volume.jpg",
+          "caption": "Call Volume Anomalies Dashboard"
+        },
+        {
+          "img_path": "portfolio_media/drug_use_response.jpg",
+          "caption": "Correlation between Drug Activity Type and Police Enforcement"
+        },
+        {
+          "img_path": "portfolio_media/dash_time_spent.jpg",
+          "caption": "How much time is spent addressing 311 calls?"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [],
+  "education": [
+    {
+      "institution": "Louisiana State University - Shreveport",
+      "location": "Shreveport, LA",
+      "url": "https://www.lsus.edu/",
+      "degrees": [
+        "MBA - Business Administration",
+        "Data Analytics Concentration"
+      ],
+
+      "gpa_cumulative": "4.0",
+      "graduation_date": "2025"
+    },
+    {
+      "institution": "University of Minnesota - Twin Cities",
+      "location": "Minneapolis, MN",
+      "url": "https://www.umn.edu/",
+      "degrees": [
+        "MS - Geophysics",
+        "PhD study - Civil Engineering"
+      ],
+
+      "gpa_cumulative": "3.5",
+      "graduation_date": "2006"
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "Python, Pandas, Matplotlib, Power BI, R",
+      "proficiency": 75,
+      "proficiency_label": "Advanced/Intermediate"
+    },
+    {
+      "name": "Excel, Tableau",
+      "proficiency": 95,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "SQL, C/C++, Matlab, HTML, Scikit-Learn",
+      "proficiency": 60,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bicycle Travel",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/bikecamp300.jpg",
+          "caption": "A lovely secret campsite in Michigan's Upper Peninsula"
+        },
+        {
+          "img_path": "portfolio_media/bigbend.jpg",
+          "caption": "Exploring the desolate Big Bend area in Texas"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}

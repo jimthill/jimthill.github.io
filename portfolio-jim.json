@@ -1,5 +1,5 @@
 {
-  "name": "James Thill MS",
+  "name": "James Thill, MS",
   "label": "Data Science and Category Management",
   "image_path": "portfolio_media/jim03142025_256.jpg",
   "contact": {
@@ -7,7 +7,7 @@
     "phone": "612-747-7775",
     "location": "Minneapolis, MN"
   },
-  "summary": "Data-driven business manager seeking to move into a Data Science or Analytics role",
+  "summary": "Highly analytical business manager seeking to move into a Data Science or Analytics role",
   "social_links": [
     {
       "label": "LinkedIn",
@@ -113,7 +113,7 @@
       "url": "https://www.umn.edu/",
       "degrees": [
         "MS - Geophysics (Magnetic Petrofabrics)",
-        "PhD study - Civil Engineering (Environmental Fluid Dynamics)"
+        "PhD study - Civil Eng (Computational Fluid Dynamics)"
       ],
 
       "gpa_cumulative": "3.5",

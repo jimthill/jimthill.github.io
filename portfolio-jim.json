@@ -81,7 +81,17 @@
           "caption": "How much time is spent addressing 311 calls?"
         }
       ]
+    },
+    {
+      "title": "Wikipedia Link Scraper",
+      "summary": "Not just for finding degrees to Kevin Bacon",
+      "url": "https://github.com/jimthill/public_shares/blob/main/wiki_link_scrape.ipynb",
+      "highlights": ["Skills used: Python, Regex, and BeautifulSoup"],
+      "images": []
     }
+
+
+	
   ],
   "volunteer_experience": [],
   "education": [

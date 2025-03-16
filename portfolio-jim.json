@@ -88,7 +88,15 @@
       "url": "https://github.com/jimthill/public_shares/blob/main/wiki_link_scrape.ipynb",
       "highlights": ["Skills used: Python, Regex, and BeautifulSoup"],
       "images": []
+    },
+    {
+      "title": "Top Spotify Tracks of 2024",
+      "summary": "Using Python to create a database",
+      "url": "https://github.com/jimthill/public_shares/blob/main/spotify_db.ipynb",
+      "highlights": ["Skills used: Python, SQLite DB"],
+      "images": []
     }
+
 
 
 	

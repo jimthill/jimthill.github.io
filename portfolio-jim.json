@@ -95,7 +95,27 @@
       "url": "https://github.com/jimthill/public_shares/blob/main/spotify_db.ipynb",
       "highlights": ["Skills used: Python, SQLite DB"],
       "images": []
+    },
+
+    {
+      "title": "Historically Extreme Temperatures in Southeast Michigan",
+      "summary": "A Pandas and Matplotlib Exercise from a Coursera Course I enjoyed.",
+      "url": "https://github.com/jimthill/public_shares/blob/main/extreme_temperatures.ipynb",
+      "highlights": ["Skills used: Python, Pandas, Matplotlib, Folium"],
+      "images": [
+	        {
+          	"img_path": "portfolio_media/weather_stations.jpg",
+          	"caption": "Folium Map"
+        	},
+		{
+          	"img_path": "portfolio_media/temp_plot.jpg",
+          	"caption": "Matplotlib plot"
+        	}
+	
+
+		]
     }
+
 
 
 

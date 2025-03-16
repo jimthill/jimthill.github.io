@@ -83,8 +83,8 @@
       ]
     },
     {
-      "title": "Wikipedia Link Scraper",
-      "summary": "Not just for finding degrees to Kevin Bacon",
+      "title": "Degrees to Kevin Bacon",
+      "summary": "Wikipedia Link Scraper",
       "url": "https://github.com/jimthill/public_shares/blob/main/wiki_link_scrape.ipynb",
       "highlights": ["Skills used: Python, Regex, and BeautifulSoup"],
       "images": []

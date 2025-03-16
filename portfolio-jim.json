@@ -83,7 +83,7 @@
       ]
     },
     {
-      "title": "Degrees to Kevin Bacon",
+      "title": "Degrees of Separation from Kevin Bacon",
       "summary": "Wikipedia Link Scraper",
       "url": "https://github.com/jimthill/public_shares/blob/main/wiki_link_scrape.ipynb",
       "highlights": ["Skills used: Python, Regex, and BeautifulSoup"],

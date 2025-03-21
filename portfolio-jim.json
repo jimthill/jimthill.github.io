@@ -62,6 +62,23 @@
     }
   ],
   "projects": [
+{
+      "title": "A/B Testing Using Minnesota Twins Baseball Data",
+      "summary": "Frequentist and Bayesian Approaches",
+      "url": "https://github.com/jimthill/public_shares/blob/main/batter_analytics_ab_testing.ipynb",
+      "highlights": ["Skills used: Python, Pandas, Matplotlib, SciPy, and Bayesian Statistics"],
+      "images": [
+        {
+          "img_path": "portfolio_media/twins1.jpg",
+          "caption": "Home and Away Batting Avergages"
+        },
+        {
+          "img_path": "portfolio_media/twinspdf.jpg",
+          "caption": "Correlation between Drug Activity Type and Police Enforcement"
+        }
+	]
+	},
+
     {
       "title": "Exploring NYC 311 Call Data",
       "summary": "All 3.4M records from 2024",

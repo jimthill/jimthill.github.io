@@ -182,18 +182,18 @@
   ],
   "skills": [
     {
-      "name": "Python, Pandas, Matplotlib, Power BI, R",
-      "proficiency": 75,
+      "name": "Python, Polars, Pandas, Matplotlib, Scikit-Learn, Excel",
+      "proficiency": 85,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Power BI, R, SQL, Tableau",
+      "proficiency": 95,
       "proficiency_label": "Confident"
     },
     {
-      "name": "Excel, Tableau",
-      "proficiency": 95,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "SQL, C/C++, Matlab, HTML, Scikit-Learn",
-      "proficiency": 60,
+      "name": "C/C++, Matlab, HTML",
+      "proficiency": 70,
       "proficiency_label": "Comfortable"
     }
   ],

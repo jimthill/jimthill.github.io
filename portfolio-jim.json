@@ -21,6 +21,20 @@
     }
   ],
   "work_experience": [
+
+   {
+      "company": "Slumberland Furniture",
+      "position": "Lead Merchandising Analyst",
+      "url": "https://www.slumberland.com/",
+      "start_date": "06/2025",
+      "end_date": "current",
+      "summary": "Deep analytics, visualizations, scenario-modeling, and story-telling",
+      "highlights": [
+        "Data Science principles applied to merchandising, marketing, finance, and sales strategy.",
+        "Co-occurrence analysis to identify co-merchandising opportunities and wins.",
+        "Skills used: Python, Power BI, Excel, PowerPoint, communication."
+      ]
+    },
     {
       "company": "Cub Foods",
       "position": "Category Manager",
